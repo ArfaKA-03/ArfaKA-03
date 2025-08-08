@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I'm a passionate Information Science Engineering s
 
 - Advanced JavaScript for Full Stack Development  
 - Machine Learning
-- 
 ---
 
 ## 📫 How to Reach Me

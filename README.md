@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate Information Science Engineering s
 
 - *Portfolio Website*  
   A responsive personal portfolio built using HTML, CSS, and JavaScript. Highlights projects, skills, and contact info in a clean and professional layout.
-  🔗 [View on GitHub](#) (https://arfaka-03.github.io/Portfolio/)
+  🔗 [View on GitHub](https://arfaka-03.github.io/Portfolio/)
 ---
 
 ## 🛠 Skills

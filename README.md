@@ -4,10 +4,11 @@ Welcome to my GitHub profile! I'm a passionate Information Science Engineering s
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects 
 
-- ### JavaScript Projects Collection
+- <u>JavaScript Projects Collection</u>  
   A compilation of hands-on JavaScript projects that demonstrate core frontend logic and interactive UI.
+
 
 - *Online Form Builder*  
   A dynamic  web form builder that allows users to create custom forms with input fields, dropdowns, and validations.  

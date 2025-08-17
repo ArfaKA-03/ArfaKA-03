@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a passionate Information Science Engineering s
 
 ## 🚀 Projects 
 
-## 🚀 Projects  
-
 - <u><b>JavaScript Projects Collection</b></u>  
   A compilation of hands-on JavaScript projects that demonstrate core frontend logic and interactive UI.  
 
@@ -15,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Information Science Engineering s
   A dynamic web form builder that allows users to create custom forms with input fields, dropdowns, and validations.
   🔗 [View Live](https://arfaka-03.github.io/Online-forms-website/loginPage.html)
 
-- *Portfolio Website*  
+- <u><b>Portfolio Website</b></u>  
   A responsive personal portfolio built using HTML, CSS, and JavaScript. Highlights projects, skills, and contact info in a clean and professional layout.
   🔗 [View Live](https://arfaka-03.github.io/Portfolio/)
 ---

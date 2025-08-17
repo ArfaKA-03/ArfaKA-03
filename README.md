@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Information Science Engineering s
 
 ## 🚀 Projects 
 
-- <u>JavaScript Projects Collection</u>  
+- *JavaScript Projects Collection*
   A compilation of hands-on JavaScript projects that demonstrate core frontend logic and interactive UI.
 
 

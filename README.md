@@ -39,4 +39,3 @@ Welcome to my GitHub profile! I'm a passionate Information Science Engineering s
 - 📧 *Email:* [arfasheikh028@gmail.com](mailto:arfasheikh028@gmail.com)  
 - 💼 *LinkedIn:* [linkedin.com/in/arfaka](https://www.linkedin.com/in/arfaka)  
 - 🌐 *Portfolio:* [https://arfaka-03.github.io/Portfolio/](https://arfaka-03.github.io/Portfolio/)
-

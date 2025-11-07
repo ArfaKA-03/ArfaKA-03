@@ -16,6 +16,12 @@ Welcome to my GitHub profile! I'm a passionate Information Science Engineering s
 - <u><b>Portfolio Website</b></u>  
   A responsive personal portfolio built using HTML, CSS, and JavaScript. Highlights projects, skills, and contact info in a clean and professional layout.
   🔗 [View Live](https://arfaka-03.github.io/Portfolio/)
+
+
+- <u><b>AdaMind(An AI-Powered Full-Stack Quiz Platform)</b></u>  
+  A dynamic full-stack quiz and flashcard web app enabling users to create, take, and share
+ personalized quizzes. Integrated Gemini 2.0 Flash API for AI-driven question generation and adaptive learning
+  🔗 [View Live]()
 ---
 
 ## 🛠 Skills

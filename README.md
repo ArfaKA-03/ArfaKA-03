@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate Information Science Engineering s
 ## 🛠 Skills
 
 - *Frontend Development:* HTML, CSS, JavaScript, React.js  
-- *Backend Development:* Node.js, Express.js, Python (Basics)  
+- *Backend Development:* Node.js, Express.js 
 - *Databases:* MongoDB, MySQL  
 - *Version Control & Tools:* Git, GitHub  
 - *Others:* REST APIs(Basics), C++

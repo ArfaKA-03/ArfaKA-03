@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">🌿 Hey, I'm <span style="color:#b667f1;">Arfa K A</span></h1>
-<h3 align="center">✨ AWS Scholar | Elevate Program | Tech Explorer | ML Enthusiast ✨</h3>
+<h3 align="center">✨ AWS AI ML Nanodegree Scholar | MERN Stack | Tech Explorer | ML Enthusiast ✨</h3>
 
 ---
 

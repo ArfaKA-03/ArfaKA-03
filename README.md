@@ -20,7 +20,7 @@
 
 ---
 
-## 🌈 Tech Stack
+## 🗂️ Tech Stack
 ### 💻 Languages  
 **C | C++ | Python | Java | JavaScript**
 

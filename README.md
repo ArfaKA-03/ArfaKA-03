@@ -23,6 +23,8 @@ Welcome to my GitHub profile! I'm a passionate Information Science Engineering s
  personalized quizzes. Integrated Gemini 2.0 Flash API for AI-driven question generation and adaptive learning
   🔗 [View Live](https://adamind.onrender.com )
 ---
+## 🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=arrx-03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ## 🛠 Skills
 

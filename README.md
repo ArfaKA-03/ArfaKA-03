@@ -8,8 +8,7 @@
 - 🎓 Final-year Information Science student  
 - 🚀 Passionate about Machine Learning, React.js & full-stack development  
 - 🍃 I love building aesthetic UI and solving meaningful problems  
-- 🌱 Currently improving DSA + ML + System Design  
-- 🍈 Nickname: **melon** 😄  
+- 🌱 Currently improving DSA + ML + System Design   
 
 ---
 

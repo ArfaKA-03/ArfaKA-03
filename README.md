@@ -33,6 +33,11 @@
 ### 🗄️ Databases  
 **MySQL | MongoDB | JDBC | Stored Procedures**
 
+### 👩🏻‍💻Version Control & Tools:
+**Git, GitHub**  
+### 🌱 Others:
+**REST APIs**
+
 ### 🧪 Testing  
 **JUnit | Jest**
 

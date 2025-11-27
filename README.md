@@ -73,16 +73,19 @@
 - Users can create/share forms 
 - 🔗 View Live: *(https://arfaka-03.github.io/Online-forms-website/index.html)*
 
-### 📌 **Dog Breed Classifier**
-- ML classification model using pretrained networks  
-- 🔗 Repo: *(add your link)*  
+### 📌 **VidhiWise (AI Legal Assistant)** - Ongoing
+- An AI-powered legal assistant used by law firms for rapid document understanding, case-law matching,
+ and automated legal draft generation.
+- Tech Stack: React.js, Node.js, Express.js, MongoDB, RESTful APIs  
 
-Add more whenever you're ready!
+### Echoes of yesterday
+
+### ShadeShift
 
 ---
 
 ## ✨ Quote I Live By
-> “Small steps every day become miracles.” — melon 🍈
+> “Success is the sum of small efforts, repeated day in and day out.” – Robert Collier
 
 ---
 
@@ -90,38 +93,3 @@ Add more whenever you're ready!
 - 📧 *Email:* [arfasheikh028@gmail.com](mailto:arfasheikh028@gmail.com)  
 - 💼 *LinkedIn:* [linkedin.com/in/arfaka](https://www.linkedin.com/in/arfaka)  
 - 🌐 *Portfolio:* [https://arfaka-03.github.io/Portfolio/](https://arfaka-03.github.io/Portfolio/)
-
-
-
-
-
-
-
-- <u><b>JavaScript Projects Collection</b></u>  
-  A compilation of hands-on JavaScript projects that demonstrate core frontend logic and interactive UI.  
-
-
-
-- <u><b>Portfolio Website</b></u>  
-  A responsive personal portfolio built using HTML, CSS, and JavaScript. Highlights projects, skills, and contact info in a clean and professional layout.
-  🔗 [View Live](https://arfaka-03.github.io/Portfolio/)
-
-
-
----
-
-## 🛠 Skills
-
-- *Frontend Development:* HTML, CSS, JavaScript, React.js  
-- *Backend Development:* Node.js, Express.js 
-- *Databases:* MongoDB, MySQL  
-- *Version Control & Tools:* Git, GitHub  
-- *Others:* REST APIs(Basics), C++
-
----
-
-## 🌱 Currently Learning
-
-- Advanced JavaScript for Full Stack Development  
-- Machine Learning
-

@@ -8,13 +8,14 @@
 - 🎓 Final-year Information Science student  
 - 🚀 Passionate about Machine Learning, React.js & full-stack development  
 - 🍃 I love building aesthetic UI and solving meaningful problems  
-- 🌱 Currently improving DSA + ML + System Design   
+- 🌱 Currently strengthening my DSA skills and exploring software engineering opportunities   
 
 ---
 
 ## 🏆 Achievements & Badges
 🌟 **AWS Scholarship Recipient**  
-🌟 **Selected for Elevate Program (Top students group)**  
+🌟 **Consolation Prize – CSI Project Exhibition**
+🌟 **Selected for Elevate Program**  
 🌟 **Google Girl Hackathon 2024 Participant**  
 
 ---
@@ -24,7 +25,7 @@
 **C | C++ | Python | Java | JavaScript**
 
 ### 🎨 Frontend  
-**HTML | CSS | React.js | Bootstrap | Vite**
+**HTML | CSS | React.js | TailwindCSS | Vite**
 
 ### ⚙️ Backend  
 **Node.js | Express.js**
@@ -33,10 +34,10 @@
 **MySQL | MongoDB | JDBC | Stored Procedures**
 
 ### 🧪 Testing  
-**JUnit | TestNG | TDD**
+**JUnit | Jest**
 
 ### 🧠 ML & AI  
-**Transformers | Hugging Face | LangChain | Torch | NLP | DocQA | RAG**
+**Transformers | Hugging Face | LangChain | NLP | RAG**
 
 ---
 

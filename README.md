@@ -87,8 +87,9 @@ Add more whenever you're ready!
 ---
 
 ## 📫 Connect with Me
-📧 **arfaka03@gmail.com**  
-🔗 *(Add your LinkedIn URL)*  
+- 📧 *Email:* [arfasheikh028@gmail.com](mailto:arfasheikh028@gmail.com)  
+- 💼 *LinkedIn:* [linkedin.com/in/arfaka](https://www.linkedin.com/in/arfaka)  
+- 🌐 *Portfolio:* [https://arfaka-03.github.io/Portfolio/](https://arfaka-03.github.io/Portfolio/)
 
 
 
@@ -110,14 +111,6 @@ Add more whenever you're ready!
 
 
 ---
-## 🔥 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=arfaka-03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-## 📊 GitHub Contribution Graph
-![Arfa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arfaka-03&theme=tokyo-night)
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arfaka-03&show_icons=true&theme=tokyonight)
 
 ## 🛠 Skills
 
@@ -133,10 +126,4 @@ Add more whenever you're ready!
 
 - Advanced JavaScript for Full Stack Development  
 - Machine Learning
----
 
-## 📫 How to Reach Me
-
-- 📧 *Email:* [arfasheikh028@gmail.com](mailto:arfasheikh028@gmail.com)  
-- 💼 *LinkedIn:* [linkedin.com/in/arfaka](https://www.linkedin.com/in/arfaka)  
-- 🌐 *Portfolio:* [https://arfaka-03.github.io/Portfolio/](https://arfaka-03.github.io/Portfolio/)

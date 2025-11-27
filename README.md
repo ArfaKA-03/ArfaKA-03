@@ -14,7 +14,7 @@
 
 ## 🏆 Achievements & Badges
 🌟 **AWS Scholarship Recipient**  
-🌟 **Consolation Prize – CSI Project Exhibition**
+🌟 **Consolation Prize – CSI Project Exhibition**  
 🌟 **Selected for Elevate Program**  
 🌟 **Google Girl Hackathon 2024 Participant**  
 

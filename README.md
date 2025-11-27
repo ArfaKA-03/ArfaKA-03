@@ -15,7 +15,7 @@
 ## 🏆 Achievements & Badges
 🌟 **AWS Scholarship Recipient**  
 🌟 **Selected for Elevate Program (Top students group)**  
-🌟 **Pixel Plus Hackathon 2025 Participant**  
+🌟 **Google Girl Hackathon 2024 Participant**  
 
 ---
 

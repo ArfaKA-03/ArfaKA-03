@@ -57,10 +57,11 @@
 ---
 
 ## 🧩 Featured Projects
-### 📌 **Image Colorizer (Deep Learning)**
-- Converts black-and-white images to color  
-- Technologies: Python, Torch, OpenCV  
-- 🔗 Repo: *(add your link)*  
+### 📌 **AdaMind(An AI-Powered Full-Stack Quiz Platform)**
+- A dynamic full-stack quiz and flashcard web app enabling users to create, take, and share
+ personalized quizzes. Integrated Gemini 2.0 Flash API for AI-driven question generation and adaptive learning 
+- Technologies: React.js, CSS, Javascript, Node.js, Express,js, MongoDB   
+- 🔗 View Live: *(https://adamind.onrender.com)*  
 
 ### 📌 **Google Forms Clone**
 - Built using HTML/CSS/JS/React + Node + MySQL  
@@ -89,13 +90,6 @@ Add more whenever you're ready!
 
 
 
-# 👋 Hello, I'm Arfa K A!
-
-Welcome to my GitHub profile! I'm a passionate Information Science Engineering student with a keen interest in *Full Stack Web Development* and *Machine Learning*. I'm currently focused on building practical projects and upskilling myself to land a job in the tech industry within the next couple of months.
-
----
-
-## 🚀 Projects 
 
 - <u><b>JavaScript Projects Collection</b></u>  
   A compilation of hands-on JavaScript projects that demonstrate core frontend logic and interactive UI.  
@@ -109,10 +103,7 @@ Welcome to my GitHub profile! I'm a passionate Information Science Engineering s
   🔗 [View Live](https://arfaka-03.github.io/Portfolio/)
 
 
-- <u><b>AdaMind(An AI-Powered Full-Stack Quiz Platform)</b></u>  
-  A dynamic full-stack quiz and flashcard web app enabling users to create, take, and share
- personalized quizzes. Integrated Gemini 2.0 Flash API for AI-driven question generation and adaptive learning
-  🔗 [View Live](https://adamind.onrender.com )
+
 ---
 ## 🔥 GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=arfaka-03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)

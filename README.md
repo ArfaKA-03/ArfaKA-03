@@ -69,9 +69,9 @@
 - 🔗 View Live: *(https://adamind.onrender.com)*  
 
 ### 📌 **Google Forms Clone**
-- Built using HTML/CSS/JS/React + Node + MySQL  
-- Users can create/share forms & view responses  
-- 🔗 Repo: *(add your link)*  
+- Built using HTML, CSS and JS 
+- Users can create/share forms 
+- 🔗 View Live: *(https://arfaka-03.github.io/Online-forms-website/index.html)*
 
 ### 📌 **Dog Breed Classifier**
 - ML classification model using pretrained networks  
@@ -100,9 +100,7 @@ Add more whenever you're ready!
 - <u><b>JavaScript Projects Collection</b></u>  
   A compilation of hands-on JavaScript projects that demonstrate core frontend logic and interactive UI.  
 
-- <u><b>Online Form Builder</b></u>  
-  A dynamic web form builder that allows users to create custom forms with input fields, dropdowns, and validations.  
-  🔗 [View Live](https://arfaka-03.github.io/Online-forms-website/index.html)
+
 
 - <u><b>Portfolio Website</b></u>  
   A responsive personal portfolio built using HTML, CSS, and JavaScript. Highlights projects, skills, and contact info in a clean and professional layout.

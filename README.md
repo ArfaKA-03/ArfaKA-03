@@ -29,6 +29,9 @@ Welcome to my GitHub profile! I'm a passionate Information Science Engineering s
 ## 📊 GitHub Contribution Graph
 ![Arfa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arfaka-03&theme=tokyo-night)
 
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arrx-03&show_icons=true&theme=tokyonight)
+
 ## 🛠 Skills
 
 - *Frontend Development:* HTML, CSS, JavaScript, React.js  

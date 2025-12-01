@@ -78,7 +78,7 @@
  and automated legal draft generation.
 - Tech Stack: React.js, Node.js, Express.js, MongoDB, RESTful APIs  
 
-### Echoes of yesterday
+### **Echoes of yesterday**
 
 ### ShadeShift
 

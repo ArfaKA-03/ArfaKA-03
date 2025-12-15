@@ -62,13 +62,13 @@
 ---
 
 ## 🧩 Featured Projects
+### **Echoes of yesterday**
+
 ### 📌 **AdaMind(An AI-Powered Full-Stack Quiz Platform)**
 - A dynamic full-stack quiz and flashcard web app enabling users to create, take, and share
  personalized quizzes. Integrated Gemini 2.0 Flash API for AI-driven question generation and adaptive learning 
 - Technologies: React.js, CSS, Javascript, Node.js, Express,js, MongoDB   
 - 🔗 View Live: *(https://adamind-0157.onrender.com)*  
-
-### **Echoes of yesterday**
 
 ### 📌 **VidhiWise (AI Legal Assistant)** - Ongoing
 - An AI-powered legal assistant used by law firms for rapid document understanding, case-law matching,

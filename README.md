@@ -68,11 +68,6 @@
 - Technologies: React.js, CSS, Javascript, Node.js, Express,js, MongoDB   
 - 🔗 View Live: *(https://adamind-0157.onrender.com)*  
 
-### 📌 **Google Forms Clone**
-- Built using HTML, CSS and JS 
-- Users can create/share forms 
-- 🔗 View Live: *(https://arfaka-03.github.io/Online-forms-website/index.html)*
-
 ### **Echoes of yesterday**
 
 ### 📌 **VidhiWise (AI Legal Assistant)** - Ongoing
@@ -80,6 +75,11 @@
  and automated legal draft generation.
 - Tech Stack: React.js, Node.js, Express.js, MongoDB, RESTful APIs  
 
+### 📌 **Google Forms Clone**
+- Built using HTML, CSS and JS 
+- Users can create/share forms 
+- 🔗 View Live: *(https://arfaka-03.github.io/Online-forms-website/index.html)*
+  
 ### ShadeShift
 
 ### Banking-System-Simulation using oops

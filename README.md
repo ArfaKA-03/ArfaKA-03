@@ -45,6 +45,8 @@
 **Transformers | Hugging Face | LangChain | NLP | RAG**
 
 ---
+##Views:
+![Profile Views](https://komarev.com/ghpvc/?username=arfaka-03&color=green)
 
 ## 🔥 GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=arfaka-03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)

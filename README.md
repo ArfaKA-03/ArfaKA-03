@@ -7,8 +7,9 @@
 ## 💫 About Me
 - 🎓 Final-year Information Science student  
 - 🚀 Passionate about Machine Learning, React.js & full-stack development  
-- 🍃 I love building aesthetic UI and solving meaningful problems  
-- 🌱 Currently strengthening my DSA skills and exploring software engineering opportunities   
+- 🍃 I love building aesthetic UI and solving meaningful problems
+- 🌍 Actively contributing to open-source projects and learning through collaboration
+- 🌱 Currently strengthening my DSA skills   
 
 ---
 

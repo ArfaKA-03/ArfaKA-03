@@ -13,6 +13,13 @@
 
 ---
 
+## 💼 Experience
+- 💼 Graduate Engineer Trainee Intern at **Empluse Global**, where I developed AI-powered solutions using Python, NLP, Computer Vision, and Agentic AI.
+- 🤖 Built an **eHR Chatbot** to streamline employee HR support by automating responses to common HR queries using NLP techniques.
+- 👁️ Worked on **YOLOv6** and contributed to AI projects involving object detection, data processing, and intelligent automation.
+
+---
+
 ## 🏆 Achievements & Badges
 🌟 **AWS Scholarship Recipient**  
 🌟 **Consolation Prize – CSI Project Exhibition**  

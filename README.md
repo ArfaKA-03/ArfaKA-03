@@ -5,7 +5,7 @@
 ---
 
 ## 💫 About Me
-- 🎓 Final-year Information Science student  
+- 🎓 Information Science graduate  
 - 🚀 Passionate about Machine Learning, React.js & full-stack development  
 - 🍃 I love building aesthetic UI and solving meaningful problems
 - 🌍 Actively contributing to open-source projects and learning through collaboration
